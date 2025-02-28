@@ -1,5 +1,5 @@
 ﻿using JimmysUnityUtilities;
-using NaughtyAttributes;
+using TriInspector;
 using UnityEngine;
 
 namespace LogicUI.FancyTextRendering

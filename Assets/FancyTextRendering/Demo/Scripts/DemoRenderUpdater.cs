@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using LogicUI.FancyTextRendering;
-using NaughtyAttributes;
+using TriInspector;
 
 namespace FancyTextRendering.Demo
 {

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "com.dbrizov.naughtyattributes": {
-      "version": "https://github.com/dbrizov/NaughtyAttributes.git#upm",
+    "com.codewriter.triinspector": {
+      "version": "https://github.com/codewriter-packages/Tri-Inspector.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {},
-      "hash": "6610c4be31942e323a3be910ac567ec528c78d0b"
+      "dependencies": {
+        "com.unity.localization": "1.0.0"
+      },
+      "hash": "67ee3d8adaf6f3faf50da8dc33b57ec7964f98bb"
     },
     "com.jimmycushnie.jimmysunityutilities": {
       "version": "https://github.com/JimmyCushnie/JimmysUnityUtilities.git",
